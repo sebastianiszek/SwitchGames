@@ -1,7 +1,7 @@
 # SwitchGames
 
 Dynamic object-oriented game review site made using PHP.
-All data stored in JSON files.
+All data is stored in JSON files.
 
 ## Preview
 
